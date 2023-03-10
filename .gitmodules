@@ -327,3 +327,9 @@
 	path = ports/broadcom/peripherals
 	url = https://github.com/adafruit/broadcom-peripherals.git
 	branch = main-build
+[submodule "frozen/Adafruit_CircuitPython_BNO08x"]
+	path = frozen/Adafruit_CircuitPython_BNO08x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BNO08x
+[submodule "frozen/Adafruit_CircuitPython_VL53L0X"]
+	path = frozen/Adafruit_CircuitPython_VL53L0X
+	url = https://github.com/adafruit/Adafruit_CircuitPython_VL53L0X

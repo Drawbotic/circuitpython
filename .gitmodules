@@ -376,3 +376,9 @@
 [submodule "frozen/Adafruit_CircuitPython_HTTPServer"]
 	path = frozen/Adafruit_CircuitPython_HTTPServer
 	url = https://github.com/adafruit/Adafruit_CircuitPython_HTTPServer
+[submodule "frozen/Adafruit_CircuitPython_VL53L0X"]
+	path = frozen/Adafruit_CircuitPython_VL53L0X
+	url = https://github.com/adafruit/Adafruit_CircuitPython_VL53L0X.git
+[submodule "frozen/Adafruit_CircuitPython_BNO08x"]
+	path = frozen/Adafruit_CircuitPython_BNO08x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BNO08x.git

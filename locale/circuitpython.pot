@@ -670,10 +670,6 @@ msgstr ""
 msgid "Buffer too small"
 msgstr ""
 
-#: ports/espressif/common-hal/imagecapture/ParallelImageCapture.c
-msgid "Buffers must be same size"
-msgstr ""
-
 #: ports/atmel-samd/common-hal/paralleldisplaybus/ParallelBus.c
 #: ports/espressif/common-hal/paralleldisplaybus/ParallelBus.c
 #: ports/nrf/common-hal/paralleldisplaybus/ParallelBus.c
@@ -1152,7 +1148,6 @@ msgstr ""
 msgid "Internal define error"
 msgstr ""
 
-#: ports/espressif/common-hal/paralleldisplaybus/ParallelBus.c
 #: shared-bindings/pwmio/PWMOut.c shared-module/os/getenv.c
 msgid "Internal error"
 msgstr ""
@@ -1429,10 +1424,6 @@ msgstr ""
 #: ports/cxd56/common-hal/microcontroller/__init__.c
 #: ports/mimxrt10xx/common-hal/microcontroller/__init__.c
 msgid "No bootloader present"
-msgstr ""
-
-#: ports/espressif/common-hal/imagecapture/ParallelImageCapture.c
-msgid "No capture in progress"
 msgstr ""
 
 #: shared-module/usb/core/Device.c
